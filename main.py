@@ -20,7 +20,7 @@ if __name__ == '__main__':
     # f ok
     # g ok 可以和e共用一个obj
     # h ok
-    filename = "test.proto"
+    filename = "protos/test.proto"
     a1 = ProtoParser()
     a1.buildDesc(filename)
     # print(a1.proto_dict)
