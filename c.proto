@@ -1,0 +1,12 @@
+{
+    int8[] a;
+    uint8[] b;
+    int16[] c;
+    uint16[] d;
+    int32[] e;
+    uint32[] f;
+    float[] g;
+    double[] h;
+    bool[] i;
+    string[] j;
+}

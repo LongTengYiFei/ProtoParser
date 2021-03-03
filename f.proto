@@ -1,0 +1,27 @@
+{
+    {
+        uint16 id;
+     }skill0,
+    {
+        uint16 id;
+    }[2]skill1,
+
+    {
+        uint16 id;
+    }[]skill2,
+
+    {
+        uint16 id;
+    }[]skill3,
+
+    {
+        uint16 id;
+    }[]skill4,
+
+    {
+    }[2]skill5,
+
+    {
+        uint16 id;
+    }[0]skill6,
+}

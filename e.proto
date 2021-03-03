@@ -1,0 +1,62 @@
+{
+    {
+        int8[] a;
+        uint8[] b;
+        int16[] c;
+        uint16[] d;
+        int32[] e;
+        uint32[] f;
+        float[] g;
+        double[] h;
+        bool[] i;
+        string[] j;
+    }skill1;
+    {
+        int8[] a;
+        uint8[] b;
+        int16[] c;
+        uint16[] d;
+        int32[] e;
+        uint32[] f;
+        float[] g;
+        double[] h;
+        bool[] i;
+        string[] j;
+    }[2]skill2;
+    {
+        int8[] a;
+        uint8[] b;
+        int16[] c;
+        uint16[] d;
+        int32[] e;
+        uint32[] f;
+        float[] g;
+        double[] h;
+        bool[] i;
+        string[] j;
+    }[]skill3;
+    {
+        int8[] a;
+        uint8[] b;
+        int16[] c;
+        uint16[] d;
+        int32[] e;
+        uint32[] f;
+        float[] g;
+        double[] h;
+        bool[] i;
+        string[] j;
+    }[]skill4;
+    {
+        int8[] a;
+        uint8[] b;
+        int16[] c;
+        uint16[] d;
+        int32[] e;
+        uint32[] f;
+        float[] g;
+        double[] h;
+        bool[] i;
+        string[] j;
+    }[]skill5;
+}

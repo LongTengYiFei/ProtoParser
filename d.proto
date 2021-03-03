@@ -1,0 +1,12 @@
+{
+    int8[1] a;
+    uint8[2] b;
+    int16[3] c;
+    uint16[1] d;
+    int32[2] e;
+    uint32[3] f;
+    float[1] g;
+    double[2] h;
+    bool[3] i;
+    string[0] j;
+}
